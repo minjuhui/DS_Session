@@ -10,6 +10,6 @@ git은 지난 수업시간에서 했던 내용이므로 자세한 설명은 생�
 $ git iniit
 $ git add .
 $ git commit -m "<메시지>"
-$ git remote add origin <repogitory URL>
+$ git remote add origin <repoitory URL>
 $ git push origin master
 ```
