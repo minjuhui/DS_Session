@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+{% load static %}
+<br>
+<div class="container">
+<div class="card" style="width: 22rem;">
+  <div class="card-body">
+    <h5 class="card-title">김아무개</h5>
+    <p class="card-text">
+    	멋쟁이사자처럼 활동중
+    	<br>
+    	E-MAIL)duksung@likelion.org
+    </p>
+    <img style="width:250px;height:220px;" src={% static 'img/lion.jpg' %} alt="lion" />
+    <br>
+    <br>
+    <a href="#" class="btn btn-primary">자세히보기</a>
+  </div>
+</div>
+</div>
+{% endblock %}
