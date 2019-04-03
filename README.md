@@ -1,4 +1,4 @@
-# DS_Sesstion
+# DS_Session
 ## LIKELION AT Dukusng 
 7기 아기사자들 파이팅!
 
